@@ -1,2 +1,2 @@
 # EmployeeManagementSystem
-Engineered using Spring Security, JWT, Spring-Boot, React.js and Postgresql
+Pioneered using Spring & Spring-Boot, React.js and Postgresql
